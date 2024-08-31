@@ -2,7 +2,7 @@ import React from 'react'
 
 export const AppBar = () => {
   return (
-    <div  className='flex justify-between h-14 shadow '>
+    <div  className='flex justify-between h-14 shadow bg-blue-300'>
      <div className="flex flex-col justify-center h-full ml-4">
       PayEase App
      </div>
